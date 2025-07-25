@@ -137,9 +137,80 @@ Feedback loop where the models make them AI
 AI is defined as the simulation of intelligent behavior in computers, but true AGI, which would match human intelligence, has not yet been achieved.
 
 
+------------------------------------------------------------------------------
 
+**AI in Daily Life**
 
+AI enables efficiency and convinience by optimizing tasks and improving functionality.
 
+- Virtual assistants
+    - Siri
+    - Google assistant
+    - Alexa
+- Smart home
+    - Thermostats
+    - Lights
+    - Security camera
+
+Uses recomendation systems do analyise large amounts of data to provide personalised recomendations.
+
+--------------------------------------------------------------------------------
+
+**AI Chatbots and Smart Assistants**
+
+What is an AI chatbot?
+- Understands and responds to queries
+- Provide information
+- Perform tasks
+- Uses advance algorithms and NLP techniques
+- Simulate human-like conversations
+
+Evolution of AI chatbots
+From: Rule-based systems ( Predefinied rules and patters)
+To: AI chatbots (Capable of complete conversations)
+
+Generative AI models
+- Context-based conversations
+- Personalized recomendations
+
+How do AI chatbots work?
+- Information database
+- Deep learning
+- Machine learning
+- NlP 
+
+1. Analyzes input
+2. Uses Ai algorithms and NLP
+3. Dialogue management system (Selects correct response). + Machine learning algoithm (update chatbot's knowledge base)
+4. Generates response
+
+Benifits of AI chatbots
+- All-time availablity
+- Scalability
+- Personalized services and suggestions
+- Natural conversations
+- Multilingual communications
+
+Future of AI chatbots
+- Reshape business communication
+- Focus on more human-like chatbots
+- Use of sintiment analysis
+- Enhance work efficiency
+- Automate tasks
+
+-------------------------------------------------------------------------------------
+
+**What is a Chatbot?**
+
+Chatbots utilize natural language processing (NLP) and artificial intelligence to understand and respond to users.
+
+Chatbots operate in the cloud and connect to databases to check product availability or to process orders.
+
+They automate tasks to allow businesses to focus on their primary responsibilities.
+
+Beifits of chatbot
+- Save time for both customer and business by streamlining interactions
+- simple to build and can be launched quickly even without coding knowledge
 
 
 
