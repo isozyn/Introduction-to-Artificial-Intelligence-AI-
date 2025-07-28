@@ -544,27 +544,327 @@ Recurrent neural networks (RNN)
 - Allows you to access previous information in current itterations
 
 
+--------------------------------------------------------------------------------
+
+**Machine Learning Vs. Deep Learning**
+
+AI -> ML -> NN -> DL
+
+Machine learning uses structured labeled data for predictions.
+Deep learning can use unstructured data and doesnt require human intervention.
+
+Machine learning only has 1 layer .
+
+Deep learning has atleast 3 layers.
+
+--------------------------------------------------------------------------------
+**Generative AI Models**
+
+Generative AI models can mimic humans in making: Text, Art, Music, and Video.
+
+Types of generative AI models architectures
+- Variational autoencoders (VAEs)
+    - Works by transforming input data by encoding and decoding.
+    - Has 3 main parts :
+    - Encoder
+          Converts input to simpler form called laten space representation
+    - Laten space representation
+          Holds key features of the data
+    - Decoder
+          Generates new outputs based on laten space representation
+      
+    - Applications of VAE model includes image generation, abomoly detection,    and so on.
+    - 
+      
+- Generative adversarial networks (GANs)
+      - Involve 2 nueral networks
+          - Generator
+              Creates new data samples
+          - Discriminator
+              Checks if data is correct
+          This preccess takes place until the generator creates images that the disciminator cant tell if the data is correct or not.
+          Used for Image synthesis, Style transfer, Data augmentation and so on.
+- Autoregressive models
+      - create data sequentially, considering the context of earlier generated elements.
+      -create data sequentially, considering the context of earlier generated elements.
+      -Can create text and music.
+- Transformers
+      - Generally used in NLP tasks
+      - Consists of encoder and decoder layers
+      - this helps the model to generate text sequences or perform a cross language translation.
+      - Unimodal models generate outputs withing the same modality
+      - Multimodal models handles inputs from 1 modality. Produces outputs in a diffferent modality.
+
+Modality - types of data
+
+--------------------------------------------------------------------------------
+
+**Large Language Models (LLMs)**
+Large language models are actually a part of a different class of models called foundation models (FM).
+
+Foundation models are trained on vast amounts of unstructured data allowing them to generate text by predicting the next word in a sentence.
+Foundation models are part of generative AI.
+You can tune or promp the foundation model to suite your needs.
+
+Prompting
+Definition: Prompting uses natural language questions or statements to guide the model's response without changing its parameters.
+
+Tuning
+Definition: Tuning involves adjusting the parameters of a pre-trained model using a small amount of labeled data.
 
 
+Advantages of FM
+- Performance
+- Productivity
+
+Disadvantages of FM
+- Compute costs
+- Trustworthy
+
+--------------------------------------------------------------------------------
+
+**Machine Learning vs. Deep Learning vs. Foundation Models**
+
+Understanding AI and Its Subfields
+- Machine learning (ML) is a subfield of AI that focuses on algorithms allowing computers to learn from data without explicit programming.
+
+Categories of Machine Learning
+- Supervised vs unsupervised learning
+
+Deep Learning and Foundation Models
+-Deep learning is a subset of ML that uses artificial neural networks with multiple layers to handle complex data like images and natural language.
+
+Large Language Models and Generative AI
+- Large language models (LLMs) are a type of foundation model focused on processing and generating human-like text, capable of various language tasks.
 
 
+--------------------------------------------------------------------------------
+
+**Natural Language Processing, Speech, and Computer Vision**
+
+NLP uses machine learning and deep learning to break down sentances gramatically, relationally and structually to understand the context of use.
 
 
+NLP: Subcategories
+- Speech to text (STT)
+    - Changes spoken words into written text using neural networks.
+    - By analyzing voice samples and their text versions, the neural network identifies patterns in how words are pronounced.
+    - It then uses this knowledge to convert new voice recordings into the correct text.
+    - Voice commands
+    - dictation
+    - transcription services
+    - voice search.
+
+- Text to speech (TTS)
+    - one neural network learns a person's voice by analyzing many voice samples.
+    - Then a second neural network generates new audio and checks with the first network to see if it matches the original voice.
+    - If it doesn't, the second network adjusts the audio and tries again. This process continues until the generated voice sounds natural and matches the original.
+ 
+
+Computer Vision
+- Facial recognition in smartphones
+    - Analyze facial image
+    - Matches with pre-existing data
+      
+What is computer vision?
+It is a field of artificial intelligence that empowers machines to interpret and comprehend visual data.
+Analyzes picure or video data to derive conclusions
+Bridges the digital and physical worlds
+
+Computer vision applications
+- Image classifications
+- Object detection
+- Image segmentation techniques
+
+--------------------------------------------------------------------------------
+
+**What Is NLP (Natural Language Processing)?**
+
+Taking words and sentances and forming compehension from it. When a computer does that we call it NLP.
+
+NLP starts with unstructured text.(The way we speak. normal words and sentances)
+It then turns it into structured language that the computer can understand.
+This process is called NLU(Natural Language Understanding)
+
+Going from structured to unstructured is called NLG (Natural Language Generation)
+
+When is NLP uselfull?
+- Machine translation
+- Virtual assistant, Chatbots
+- Sentiment analysis
+- Spam detection
 
 
+ How does NLP work?
+ - Tokenization (taking a string and breaking it down into words/tokens)
+ - Stemming (getting the word stem of word) / Lemmatization (get meaning through dictionary definition)
+ - Part of speach tagging
+ - N.E.R (Named Entity Recognition)
 
 
+--------------------------------------------------------------------------------
+
+**AI and Cloud Computing, Edge Computing, and IoT**
+
+IoT - Internet of Things
+
+IoT devices
+- Fitness trackers or smartwatches
+- Washing machine
+- Smart thermostats
+
+- Network of physical devices
+- Data collection and sharing
+- Sensors, cameras, and data generating devices
+
+Iot devices take data and share it to the cloud for storage and analysis.
+
+Cloud computing
+
+Store and uses data and services over the internet
+Allows users to access computer resources remotely.
+In essense using someone else computer over the internet instead of your own.
+
+Unification of AI and cloud computing 
+- Gives space to analyze data
+- Extracts deeper insights
+- Automates tasks
+- Makes data-driven decisions
 
 
+Edge Computing 
+Processes data locally before sending it to the cloud
+Processes data closer to the source
+
+eg. simple thermostat
 
 
+Fitness tracker
+- Iot
+    - Heart rate
+    - Steps
+    - Activity level
 
+- Edge Computing
+    - Handles data locally
+    - Counts steps
+    - Monitors heart rate
+    - Analyzes data
+  
+- Cloud Computing
+    -  Data sent to cloud
+    -  Analyze sleep patterns
+    -  Suggest improvements
+    -  Create personalized plans
 
+--------------------------------------------------------------------------------
+Summary
 
+Machine learning, a subset of AI, uses algorithms to analyze data, makes decisions without explicit programming, and enables autonomous problem-solving.
 
+There are three main types of machine learning:
 
+Supervised learning:
 
+Trained on labels to classify new data
 
+Becomes more precise with more data
+
+Categories: 
+
+Regression: Estimates continuous values 
+
+Neural networks: Imitates the structure of the human brain
+
+Classification: Focusses on discrete values 
+
+Unsupervised learning:
+
+Finds patterns in unlabeled data
+
+Useful for clustering similar data points and detecting anomalies
+
+Reinforcement learning:
+
+Achieves goals within a set of rules and constraints by maximizing rewards
+
+Useful for tasks like playing chess or navigating
+
+Training a model involves splitting a dataset into training, validation, and testing sets.
+
+Training set: Trains the algorithm
+
+Validation set: Fine-tunes and validates the model
+
+Test set: Evaluates the model's performance
+
+Deep learning uses neural networks with multiple layers to analyze complex data. It allows continuous improvement and learning. It enhances AI's natural language understanding by grasping context and intent. It excels in various tasks:
+
+Image captioning
+
+Voice recognition
+
+Facial recognition
+
+Medical imaging
+
+Language translation
+
+Driverless cars
+
+Neural networks, a computational model consisting of interconnected nodes with three layers. They are an input layer, one or more hidden layers, and an output layer.
+
+Various types of neural networks include perceptron, feed-forward, deep feed-forward, modular, convolutional neural network, and recurrent neural networks.
+
+Generative AI model architectures include VAEs, GANs, autoregressive models, and Transformers.
+
+Variational autoencoders (VAEs):
+
+Encoder: Input data into a latent space representation
+
+Latent space captures essential data characteristics
+
+Decoder: Generates outputs based on this representation
+
+Generative adversarial networks (GANs):
+
+Generator: New data samples
+
+Discriminator: Verify the generated data
+
+Autoregressive models:
+
+Create data sequentially
+
+Consider the context 
+
+Transformers:
+
+Generate text sequences
+
+Perform cross-language translations effectively
+
+Models can be categorized into unimodal or multimodal. Unimodal models process inputs and generate outputs within the same modality and multimodal models handle inputs from one modality and produce outputs in a different modality.
+
+Cognitive computing technology mimics human cognitive processes like thinking, reasoning, and problem-solving.
+
+Natural language processing aids computers in interpreting and producing human language and uses machine learning and deep learning algorithms to understand a word's semantic meaning by deconstructing sentences grammatically, relationally, and structurally.
+
+Speech-to-text (STT) technology transforms spoken words into written text. 
+
+Text-to-speech (TTS) technology converts written text into spoken words. 
+
+Computer vision enables machines to understand visual data by analyzing images or videos, drawing meaningful insights, and making informed decisions.
+
+IoT devices are a network of physical devices connected to the internet that collect and share data for processing and analysis. 
+
+Cloud computing allows you to store and use data and services over the internet.
+
+Edge computing refers to the practice of processing data closer to the source of generation, rather than relying on a centralized data center. 
+
+The intersection of AI, IoT, cloud computing, and edge computing brings you smart and real-time applications.
+
+Real-world applications of AI, cloud computing, edge computing, and IoT can include AI-powered traffic lights, smart public transportation, smart agriculture, and smart buildings.
 
 
 
