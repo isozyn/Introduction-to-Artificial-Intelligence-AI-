@@ -941,6 +941,63 @@ Invoice Processing: Capturing, validating, and posting invoices.
 Payroll Management: Calculating deductions and processing payments.
 Employee Onboarding: Collecting documents and entering data into systems.
 
+--------------------------------------------------------------------------------
+
+**Transforming Businesses Through AI**
+
+Task automation
+- Automates data entry, scheduling, and reoirt generation
+- Allows employess to focu on creative and strategic work
+
+Data analysis
+- Identifies patters and trends
+- Allows better predictions
+
+Creativity
+- Generates innovative ideas
+- Helps to resonate with the target audience
+- Leads to higher engagement and sales
+
+--------------------------------------------------------------------------------
+
+**The Rise of Generative AI for Business**
+
+Generative AI in several key areas:
+- Some of them include content generation, where Generative AI can create high quality content, such as marketing materials, product descriptions, and social media posts
+- Data analysis, where generative AI identifies patterns and generates actionable insights
+- Customer service, where Generative AI-powered chat bots handle repetitive tasks and provide personalized answers, improving customer satisfaction
+- Product development where AI models generate multiple design variations, streamlining the prototyping process. Finally, you learn that startups are also leveraging Generative AI as it helps with cost effectiveness and increased efficiency and innovation.
+
+--------------------------------------------------------------------------------
+    
+**Become a Value Creator with Generative AI**
+
+Understanding Generative AI
+- Different from traditional(can be flexible and create new content rather han just executing specific tasks)
+- Foundation madels are trained using self-supervised learning.( adapt to various tasks without extensive manual data labeling)
+
+
+Modes of AI Consumption
+- Embedded AI: off the shelf software, provides productivity benifits but lacks differentiation
+- API Calls: use of external AI services, bad because leads to dependency and value extration by service providers.
+- Platform Model: Offers comprehensive tools to build tailored AI solutions. Business has full control over their data and can create unique value.
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
