@@ -865,9 +865,81 @@ Edge computing refers to the practice of processing data closer to the source of
 The intersection of AI, IoT, cloud computing, and edge computing brings you smart and real-time applications.
 
 Real-world applications of AI, cloud computing, edge computing, and IoT can include AI-powered traffic lights, smart public transportation, smart agriculture, and smart buildings.
+________________________________________________________________________________
+
+Module 3 
+
+AI Agents
+
+AI agents:
+- Engage with surroundings
+- process data
+- Execute tasks independently
+- Meet human-set goals
+
+Key traits 
+- Social ability: Communicate with others
+- Autonomy: Make decisions by working alone
+- Reactiveness: Respond quickly to changes
+- Proactiveness: Take initiative and make decisions
+
+Multi-agent systems:
+- Enable distributed problem-solving
+- Foster cooperative decision-making
+
+________________________________________________________________________________
+
+**What Are AI Agents?**
+
+Monolithic models: 
+- limited to knowledge
+- Hard to adapt
+
+Compound AI systems:
+- Modular
+-  Easier to adapt
+
+Control logic - path to information 
+- Programatic (human)
+- LLM
+
+LLM Agent
+- Reason
+- Act (via tools)
+- Access memory 
+
+React - Configure AI agent
+- User query
+- Plan/ Think
+- Act
+- Observe-replan or next step
+- Answer
+
+________________________________________________________________________________
 
 
+**Robotics and Automation**
 
+
+Components of a robot
+- Sensors - Eyes and ears/ gather information
+- Actuators - muscles/enables movement/ motors
+- Controllers - brain/software
+
+Cobots
+- Interaction with Humans: Unlike traditional robots that operate independently, cobots are built to interact directly with people, enhancing teamwork and collaboration.
+
+- Advanced Sensors and AI: Cobots are equipped with sophisticated sensors and artificial intelligence technologies, allowing them to communicate and coordinate their actions with human workers.
+
+
+Robotic Process Automation (RPA)
+- Software to help create, use, and control cirtual robots.
+
+Automation of Tasks: RPA is particularly effective for automating tasks such as:
+
+Invoice Processing: Capturing, validating, and posting invoices.
+Payroll Management: Calculating deductions and processing payments.
+Employee Onboarding: Collecting documents and entering data into systems.
 
 
 
