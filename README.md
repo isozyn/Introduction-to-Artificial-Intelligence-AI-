@@ -985,7 +985,33 @@ Modes of AI Consumption
 
 -------------------------------------------------------------------------------
 
+**What Is Retrieval-Augmented Generation (RAG)?**
 
+LLM Challanges
+- No source
+- Out of Date
+
+RAG gets information from a source first then it generates a response from the information. It also gives evidence of source. It gives up to date data.
+
+ less likely to hallucinate or to leak data.
+ Can say "I dont know"
+
+-------------------------------------------------------------------------------
+
+**Adopting AI in Your Business**
+
+Key Benefits of Adopting AI
+AI enhances efficiency by automating repetitive tasks, allowing employees to focus on higher-value work.
+It improves decision-making through data analysis, predicts market trends, and personalizes customer service.
+
+Real-World Examples of AI in Business
+Amazon uses AI for personalized recommendations, optimizing supply chains, and enhancing customer interactions through its voice assistant, Alexa.
+Tesla employs AI in autonomous driving technology, improving safety and efficiency through real-time data analysis.
+
+Steps to Adopt AI in Business
+Define business goals by identifying specific problems AI can solve and engaging stakeholders.
+Ensure data readiness by collecting, cleaning, and organizing data for AI algorithms.
+Build AI capabilities by training employees, deploying AI solutions, and continuously monitoring and optimizing AI systems.
 
 
 
