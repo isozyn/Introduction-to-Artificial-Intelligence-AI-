@@ -1013,6 +1013,36 @@ Define business goals by identifying specific problems AI can solve and engaging
 Ensure data readiness by collecting, cleaning, and organizing data for AI algorithms.
 Build AI capabilities by training employees, deploying AI solutions, and continuously monitoring and optimizing AI systems.
 
+------------------------------------------------------------------------------
+
+**Frameworks for AI Adoption**
+
+IBM AI Ladder
+- Collect
+    - Gathers and stores high quality data
+    - Identifying data sources
+    - Implementing colletion tools
+    - Ensuring data quality
+          - IBM Cloud
+          - Watsonx.data
+- Organize
+    - Cleaning, categorizing and making data accessible for analysis
+    - Cleansing data
+    - Categorizing data
+    - Implementing governance policies
+    - Centralizing storage
+          - IBM Cloud Pak for data
+          - IBM InfoSphere
+          - IBM DataOps
+          - IBM watsonx.governance
+- Analyze
+    - AI's potential harnessed through advanced analytics and machine learning models
+          - SPSS
+          - Cognos Analytics
+          - Watson Machine Learning
+          - IBM watsonx.ai
+- Infuse
+
 
 
 
