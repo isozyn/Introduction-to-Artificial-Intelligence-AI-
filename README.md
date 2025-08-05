@@ -1018,6 +1018,11 @@ Build AI capabilities by training employees, deploying AI solutions, and continu
 **Frameworks for AI Adoption**
 
 IBM AI Ladder
+Versatile framework
+Transforms data into actionable insights and strategies.
+Supports healthcare, finance, manufacturing and retail.
+
+
 - Collect
     - Gathers and stores high quality data
     - Identifying data sources
@@ -1037,22 +1042,56 @@ IBM AI Ladder
           - IBM watsonx.governance
 - Analyze
     - AI's potential harnessed through advanced analytics and machine learning models
+    - Applying statistical and machine learning algorithms
+    - Developing predictive models
+    - Visualizing insights
+    - Refining models based on performance
           - SPSS
           - Cognos Analytics
           - Watson Machine Learning
           - IBM watsonx.ai
 - Infuse
+    - Integrates AI into daily business operations
+    - Enhance decision-making
+    - Automate tasks
+    - Embedding AI models
+    - Automating processes
+    - Monitoring models
+    - Training employees 
+          - IMB APIs
+          - RPA
+          - Cloud Pak for automation
 
 
+Comapnies need to move from +AI to AI+
+
++AI - AI is used as a supplementary tool 
+    - Provides short-term incremental benifits 
+    - AI is incorporated as an add-on
+
+AI+ - AI is integrated holistically
+    - AI is a core part of the business
+    - AI is a fundamental component from the outset
 
 
+AI+ intergration 
+- Integrate AI seamlessly
+- Embed AI into product innovation
+- Enhance operational efficieny
+- Foster a culture that embraces AI-driven decision-making
 
+AI+ Identifying use cases
+- Choose projects with clear, measurable outcomes
+- After initial success, scale them across the orginization
+- Strategically align AI investments with business goals
 
+AI+ Choosing the right AI technology
+- Trying out different AI tools and platforms.
+- Seeing which one aligns with the business needs and goals.
 
-
-
-
-
+AI+ Continuous innovation and modernization
+- Leverage a hybrid cloud platform
+- provide necessary flexibility and scalability
 
 
 
